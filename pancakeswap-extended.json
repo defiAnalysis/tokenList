@@ -14,8 +14,8 @@
   "tokens": [
     {
       "name": "PancakeSwap Token",
-      "symbol": "Anb",
-      "address": "0xd09a1d5104036f02b26d1e7481C9c16c4f2D3F56",
+      "symbol": "anb",
+      "address": "0x9d1Ec8F92DAC785D8b1eBEa655013E5273cb8Df2",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
