@@ -1,6 +1,6 @@
 {
-  "name": "PancakeSwap Extended",
-  "timestamp": "2021-08-03T08:58:43.225Z",
+  "name": "ANBSwap Extended",
+  "timestamp": "2021-08-09T08:58:43.225Z",
   "version": {
     "major": 2,
     "minor": 16,
@@ -8,12 +8,12 @@
   },
   "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
   "keywords": [
-    "pancakeswap",
+    "ANBSwap",
     "extended"
   ],
   "tokens": [
     {
-      "name": "PancakeSwap Token",
+      "name": "ANBSwap Token",
       "symbol": "anb",
       "address": "0x9d1Ec8F92DAC785D8b1eBEa655013E5273cb8Df2",
       "chainId": 97,
@@ -31,7 +31,7 @@
     {
       "name": "Binance Pegged BUSD",
       "symbol": "BUSD",
-      "address": "0x8301F2213c0eeD49a7E28Ae4c3e91722919B8B47",
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
@@ -39,7 +39,7 @@
     {
       "name": "Binance Pegged ETH",
       "symbol": "ETH",
-      "address": "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
+      "address": "0xBc2b74816597fF343fCaCAc5ED061C57E7F093bA",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
